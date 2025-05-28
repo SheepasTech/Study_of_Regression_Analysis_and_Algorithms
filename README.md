@@ -18,9 +18,9 @@ Kiekvienas modelis buvo įvertintas pagal šiuos kriterijus:
 
 
 ## Naudotos technologijos
-* Python 3
-* Google Colab, Jupyter, VSCode – Python notebooks (.ipynb) palaikančios platformos
-* Pandas, NumPy  duomenų apdorojimui
+* Python 3.10
+* Google Colab/Jupyter/VSCode – Python notebooks (.ipynb) palaikančios platformos
+* Pandas, NumPy – duomenų apdorojimui
 * Tensorflow – neuroninių tinklų modelių kūrumui
 * Scikit-learn – modelių kūrimui ir vertinimui
 * Matplotlib – rezultatų vizualizacijai
